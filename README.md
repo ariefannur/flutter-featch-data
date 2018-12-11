@@ -1,4 +1,4 @@
-# Flutter Featch Data
+# Flutter Fetch Data
 
 A new Flutter project.
 
